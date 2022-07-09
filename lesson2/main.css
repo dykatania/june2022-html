@@ -1,0 +1,42 @@
+.container {
+    width: 1000px;
+}
+
+.main {
+    background-color: #5959ff;
+    box-sizing: border-box;
+    width: 1000px;
+    color: white;
+    text-align: center;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.b1 {
+    height: 300px;
+}
+
+.b2 {
+    height: 500px;
+}
+
+.column {
+    box-sizing: border-box;
+    background-color: #0000a4;
+    height: 300px;
+    width: 300px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    display:flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 30px;
+    width: 1000px;
+}
