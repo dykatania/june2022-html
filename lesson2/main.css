@@ -5,8 +5,8 @@
 .main {
     background-color: #5959ff;
     box-sizing: border-box;
-    width: 1000px;
     color: white;
+    width: 1000px;
     text-align: center;
     margin: 30px;
     display: flex;
